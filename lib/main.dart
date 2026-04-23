@@ -15,7 +15,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   bool isDarkMode = false;
   String userName = "Preethi Kilari";
-  String userRole = "Graduate Student";
+  String userRole = "Futter Developer | CS Student";
 
   @override
   void initState() {
